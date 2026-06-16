@@ -84,13 +84,14 @@ Access Department APIs
 | ``/api/departments`` | POST | Add department | ✅ (Admin) |
 
 ## 🛠️ Usage Examples
-```bash
 GET /employees       → View all employees
 POST /employees      → Add new employee
 PUT /employees/{id}  → Update employee
-DELETE /employees/{id} → Delete employee
+DELETE /employees/{id} → Delete employee add chesi pampu
 
 ## Screenshots
+## 🖼️ Screenshots
+
 ### Register API
 ![Register API](https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39)
 
@@ -99,6 +100,7 @@ DELETE /employees/{id} → Delete employee
 
 ### Get Employees API
 ![Get Employees](https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7)
+
 
 ## 🔮 Future Enhancements
 Role-based authorization (Admin/User)
