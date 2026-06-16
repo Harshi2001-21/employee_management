@@ -24,3 +24,16 @@ A Spring Boot project to manage employees with CRUD operations and secure access
    ```bash
    git clone https://github.com/Harshi2001-21/employee_management.git
 
+## Project Structure
+- src/main/java → Application source code
+- src/main/resources → Configuration files
+- pom.xml → Maven dependencies
+- README.md → Documentation
+
+## Security
+- JWT-based authentication
+- Role-based access control (Admin/User)
+- Passwords encrypted using Spring Security
+
+## License
+MIT License
