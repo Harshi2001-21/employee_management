@@ -37,3 +37,12 @@ A Spring Boot project to manage employees with CRUD operations and secure access
 
 ## License
 MIT License
+## Usage Examples
+- GET /employees → View all employees
+- POST /employees → Add new employee
+- PUT /employees/{id} → Update employee
+- DELETE /employees/{id} → Delete employee
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request.
+
