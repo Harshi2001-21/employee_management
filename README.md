@@ -60,30 +60,30 @@ mvn spring-boot:run
 | ``/api/departments`` | GET | Get all departments | ✅ |
 | ``/api/departments`` | POST | Add department | ✅ (Admin) |
 
-##🛠️ Usage Examples
+## 🛠️ Usage Examples
 GET /employees → View all employees
 POST /employees → Add new employee
 PUT /employees/{id} → Update employee
 DELETE /employees/{id} → Delete employee
 
-##🖼️ Screenshots
-Register API
+## 🖼️ Screenshots
+### Register API
 https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39
 
-Login API
+### Login API
 https://github.com/user-attachments/assets/defe18bb-3d5e-4ed0-94f6-1bc52dfaaa78
 
-Get Employees API
+### Get Employees API
 https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7
 
-##🔮 Future Enhancements
+## 🔮 Future Enhancements
 Role-based authorization (Admin/User)
 Department management UI (React/Angular frontend)
 Swagger API docs (springdoc-openapi)
 
-##📜 License
+## 📜 License
 MIT License
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
 
