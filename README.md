@@ -1,4 +1,7 @@
 # Employee Management (employee.management)
+## 🔗 GitHub Repository
+
+[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-black?logo=github)](https://github.com/Harshi2001-21/employee_management)
 
 A Spring Boot project to manage employees with CRUD operations and secure access.
 
@@ -81,20 +84,22 @@ Access Department APIs
 | ``/api/departments`` | POST | Add department | ✅ (Admin) |
 
 ## 🛠️ Usage Examples
-GET /employees → View all employees
-POST /employees → Add new employee
-PUT /employees/{id} → Update employee
+```bash
+GET /employees       → View all employees
+POST /employees      → Add new employee
+PUT /employees/{id}  → Update employee
 DELETE /employees/{id} → Delete employee
 
 ## 🖼️ Screenshots
 ### Register API
-https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39
+![Register API](https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39)
 
 ### Login API
-https://github.com/user-attachments/assets/defe18bb-3d5e-4ed0-94f6-1bc52dfaaa78
+![Login API](https://github.com/user-attachments/assets/defe18bb-3d5e-4ed0-94f6-1bc52dfaaa78)
 
 ### Get Employees API
-https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7
+![Get Employees](https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7)
+
 
 ## 🔮 Future Enhancements
 Role-based authorization (Admin/User)
@@ -105,5 +110,9 @@ Swagger API docs (springdoc-openapi)
 MIT License
 
 ## 🤝 Contributing
-Contributions are welcome! Please fork the repository and create a pull request.
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-branch`)  
+3. Commit your changes (`git commit -m 'Add new feature'`)  
+4. Push to the branch (`git push origin feature-branch`)  
+5. Open a Pull Request
 
