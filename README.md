@@ -89,7 +89,6 @@ POST /employees      → Add new employee
 PUT /employees/{id}  → Update employee
 DELETE /employees/{id} → Delete employee add chesi pampu
 
-## Screenshots
 ## 🖼️ Screenshots
 
 ### Register API
