@@ -100,7 +100,6 @@ DELETE /employees/{id} → Delete employee
 ### Get Employees API
 ![Get Employees](https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7)
 
-
 ## 🔮 Future Enhancements
 Role-based authorization (Admin/User)
 Department management UI (React/Angular frontend)
