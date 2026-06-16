@@ -2,10 +2,8 @@
 
 A Spring Boot project to manage employees with CRUD operations and secure access.
 
-📌 Project Overview
+##📌 Project Overview
 Employee Management System using Spring Boot, JWT Authentication, REST APIs for Employees & Departments.
-
-## 🚀 Tech Stack
 
 ## 🚀 Tech Stack
 
@@ -16,7 +14,7 @@ Employee Management System using Spring Boot, JWT Authentication, REST APIs for 
   <img src="https://img.shields.io/badge/SpringSecurity-JWT-red" />
 </p>
 
-🔑 Features
+##🔑 Features
 Add new employee
 Update employee details
 Delete employee
@@ -26,18 +24,18 @@ Role-based access control:
 ROLE_USER ➜ can view employees
 ROLE_ADMIN ➜ can add, update, delete employees
 
-📂 Project Structure
+##📂 Project Structure
 src/main/java → Application source code
 src/main/resources → Configuration files
 pom.xml → Maven dependencies
 README.md → Documentation
 
-🔒 Security
+##🔒 Security
 JWT-based authentication
 Role-based access control (Admin/User)
 Passwords encrypted using Spring Security
 
-⚙️ Setup Instructions
+##⚙️ Setup Instructions
 1.Clone repo
 git clone https://github.com/Harshi2001-21/employee_management.git
 cd employee_management
@@ -49,7 +47,7 @@ spring.datasource.password=yourpassword
 mvn spring-boot:run
 4.Test APIs in Postman → Register → Login → Copy JWT → Access Employee/Department APIs
 
-📡 API Endpoints
+##📡 API Endpoints
 | **Endpoint** | **Method** | **Description** | **Auth Required** |
 | --- | --- | --- | --- |
 | ``/api/auth/register`` | POST | Register new user | ❌ |
@@ -62,13 +60,13 @@ mvn spring-boot:run
 | ``/api/departments`` | GET | Get all departments | ✅ |
 | ``/api/departments`` | POST | Add department | ✅ (Admin) |
 
-🛠️ Usage Examples
+##🛠️ Usage Examples
 GET /employees → View all employees
 POST /employees → Add new employee
 PUT /employees/{id} → Update employee
 DELETE /employees/{id} → Delete employee
 
-🖼️ Screenshots
+##🖼️ Screenshots
 Register API
 https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39
 
@@ -78,14 +76,14 @@ https://github.com/user-attachments/assets/defe18bb-3d5e-4ed0-94f6-1bc52dfaaa78
 Get Employees API
 https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7
 
-🔮 Future Enhancements
+##🔮 Future Enhancements
 Role-based authorization (Admin/User)
 Department management UI (React/Angular frontend)
 Swagger API docs (springdoc-openapi)
 
-📜 License
+##📜 License
 MIT License
 
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
 
