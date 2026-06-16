@@ -2,7 +2,7 @@
 
 A Spring Boot project to manage employees with CRUD operations and secure access.
 
-##📌 Project Overview
+## 📌 Project Overview
 Employee Management System using Spring Boot, JWT Authentication, REST APIs for Employees & Departments.
 
 ## 🚀 Tech Stack
@@ -14,7 +14,7 @@ Employee Management System using Spring Boot, JWT Authentication, REST APIs for 
   <img src="https://img.shields.io/badge/SpringSecurity-JWT-red" />
 </p>
 
-##🔑 Features
+## 🔑 Features
 Add new employee
 Update employee details
 Delete employee
@@ -24,18 +24,18 @@ Role-based access control:
 ROLE_USER ➜ can view employees
 ROLE_ADMIN ➜ can add, update, delete employees
 
-##📂 Project Structure
+## 📂 Project Structure
 src/main/java → Application source code
 src/main/resources → Configuration files
 pom.xml → Maven dependencies
 README.md → Documentation
 
-##🔒 Security
+## 🔒 Security
 JWT-based authentication
 Role-based access control (Admin/User)
 Passwords encrypted using Spring Security
 
-##⚙️ Setup Instructions
+## ⚙️ Setup Instructions
 1.Clone repo
 git clone https://github.com/Harshi2001-21/employee_management.git
 cd employee_management
@@ -47,7 +47,7 @@ spring.datasource.password=yourpassword
 mvn spring-boot:run
 4.Test APIs in Postman → Register → Login → Copy JWT → Access Employee/Department APIs
 
-##📡 API Endpoints
+## 📑 API Endpoints
 | **Endpoint** | **Method** | **Description** | **Auth Required** |
 | --- | --- | --- | --- |
 | ``/api/auth/register`` | POST | Register new user | ❌ |
