@@ -36,16 +36,36 @@ Role-based access control (Admin/User)
 Passwords encrypted using Spring Security
 
 ## ⚙️ Setup Instructions
-1.Clone repo
+
+### 1. Clone Repository
+
+bash
 git clone https://github.com/Harshi2001-21/employee_management.git
 cd employee_management
-2.Configure application.properties
+
+### 2. Configure application.properties
+
+properties
 spring.datasource.url=jdbc:mysql://localhost:3306/employeedb
 spring.datasource.username=root
 spring.datasource.password=yourpassword
-3.Run project
+
+### 3. Run the Project
+
+bash
 mvn spring-boot:run
-4.Test APIs in Postman → Register → Login → Copy JWT → Access Employee/Department APIs
+
+### 4. Test APIs in Postman
+
+Register User
+↓
+Login User
+↓
+Copy JWT Token
+↓
+Access Employee APIs
+↓
+Access Department APIs
 
 ## 📑 API Endpoints
 | **Endpoint** | **Method** | **Description** | **Auth Required** |
