@@ -43,6 +43,19 @@ MIT License
 - PUT /employees/{id} → Update employee
 - DELETE /employees/{id} → Delete employee
 
+## Screenshots
+
+### Register API
+![Register API](https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39)
+
+### Login API
+![Login API](https://github.com/user-attachments/assets/defe18bb-3d5e-4ed0-94f6-1bc52dfaaa78)
+
+### Get Employees API
+![Get Employees](https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7)
+
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request.
 
