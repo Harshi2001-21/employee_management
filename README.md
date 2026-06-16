@@ -90,7 +90,7 @@ POST /employees      → Add new employee
 PUT /employees/{id}  → Update employee
 DELETE /employees/{id} → Delete employee
 
-## 🖼️ Screenshots
+## Screenshots
 ### Register API
 ![Register API](https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39)
 
