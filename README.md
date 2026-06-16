@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management (employee.management)
 
 A Spring Boot project to manage employees with CRUD operations and secure access.
 
