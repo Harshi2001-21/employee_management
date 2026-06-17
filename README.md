@@ -119,56 +119,68 @@ MIT License
 ## API Documentation
 Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 
-🖼️ Swagger Screenshots
-👥 Employee APIs
-### GET Employees API – Request
+## 🖼️ Swagger Screenshots  
+
+### 👥 Employee APIs  
+
+#### GET Employees API – Request  
 ![Get Employees Request](images/get_employee_request.png)
 
-### GET Employees API – Response
+#### GET Employees API – Response  
 ![Get Employees Response](images/get_employee_response.png)
 
-### POST Employee API – Request
+#### POST Employee API – Request  
 ![Post Employee Request](images/post_employee_request.png)
 
-### POST Employee API – Response
+#### POST Employee API – Response  
 ![Post Employee Response](images/post_employee_response.png)
 
-### PUT Employee API – Request
+#### PUT Employee API – Request  
 ![Put Employee Request](images/put_employee_request.png)
 
-### PUT Employee API – Response
+#### PUT Employee API – Response  
 ![Put Employee Response](images/put_employee_response.png)
 
-### DELETE Employee API – Request
+#### DELETE Employee API – Request  
 ![Delete Employee Request](images/delete_employee_request.png)
 
-### DELETE Employee API – Response
+#### DELETE Employee API – Response  
 ![Delete Employee Response](images/delete_employee_response.png)
 
-🏢 Department APIs
-### GET Departments API – Request
+---
+
+### 🏢 Department APIs  
+
+#### GET Departments API – Request  
 ![Get Departments Request](images/get_department_request.png)
 
-### GET Departments API – Response
+#### GET Departments API – Response  
 ![Get Departments Response](images/get_department_response.png)
 
-### POST Department API – Request
+#### POST Department API – Request  
 ![Post Department Request](images/post_department_request.png)
 
-### POST Department API – Response
+#### POST Department API – Response  
 ![Post Department Response](images/post_department_response.png)
 
-### PUT Department API – Request
+#### PUT Department API – Request  
 ![Put Department Request](images/put_department_request.png)
 
-### PUT Department API – Response
+#### PUT Department API – Response  
 ![Put Department Response](images/put_department_response.png)
 
-### DELETE Department API – Request
+#### DELETE Department API – Request  
 ![Delete Department Request](images/delete_department_request.png)
 
-### DELETE Department API – Response
+#### DELETE Department API – Response  
 ![Delete Department Response](images/delete_department_response.png)
 
+---
 
+### 🔐 Swagger Authorize  
 
+#### Swagger Authorize – Request  
+![Swagger Authorize Request](images/swagger_authorize_request.png)
+
+#### Swagger Authorize – Response  
+![Swagger Authorize Response](images/swagger_authorize_response.png)
