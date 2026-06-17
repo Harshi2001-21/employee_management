@@ -122,58 +122,53 @@ Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 🖼️ Swagger Screenshots
 👥 Employee APIs
 ### GET Employees API – Request
-![Get Employees Request]<img width="1917" height="310" alt="image" src="https://github.com/user-attachments/assets/b3a1a41f-766f-4e28-825e-b040d5ced2da" />
+![Get Employees Request](images/get_employee_request.png)
 
 ### GET Employees API – Response
-![Get Employees Response]<img width="1918" height="732" alt="image" src="https://github.com/user-attachments/assets/73b396cb-8689-4da4-8552-b982ce50f4b5" />
+![Get Employees Response](images/get_employee_response.png)
 
 ### POST Employee API – Request
-![Post Employee Request]<img width="1915" height="792" alt="image" src="https://github.com/user-attachments/assets/8511736e-3c0c-489e-961b-971b96bccae7" />
+![Post Employee Request](images/post_employee_request.png)
 
 ### POST Employee API – Response
-![Post Employee Response]<img width="1918" height="847" alt="image" src="https://github.com/user-attachments/assets/30ea92ea-05e8-4300-9ae3-9cddae9e7d6a" />
+![Post Employee Response](images/post_employee_response.png)
 
 ### PUT Employee API – Request
-![Put Employee Request]<img width="1912" height="863" alt="image" src="https://github.com/user-attachments/assets/c253e135-37d7-4ddb-b8ef-b8ab1592a5f4" />
+![Put Employee Request](images/put_employee_request.png)
 
 ### PUT Employee API – Response
-![Put Employee Response]<img width="1915" height="916" alt="image" src="https://github.com/user-attachments/assets/c338a866-4449-485f-8c9c-0559368ecea2" />
+![Put Employee Response](images/put_employee_response.png)
 
 ### DELETE Employee API – Request
-![Delete Employee Request]<img width="1918" height="443" alt="image" src="https://github.com/user-attachments/assets/c4f80041-3211-42ee-b61e-ed7824dcdb47" />
+![Delete Employee Request](images/delete_employee_request.png)
 
 ### DELETE Employee API – Response
-![Delete Employee Response]<img width="1918" height="797" alt="image" src="https://github.com/user-attachments/assets/39f08181-6030-41c7-896d-231941199241" />
+![Delete Employee Response](images/delete_employee_response.png)
 
 🏢 Department APIs
 ### GET Departments API – Request
-![Get Departments Request]<img width="1907" height="422" alt="image" src="https://github.com/user-attachments/assets/ea09e9a1-a011-4732-8a28-e628cef8c259" />
+![Get Departments Request](images/get_department_request.png)
 
 ### GET Departments API – Response
-![Get Departments Response]<img width="1918" height="883" alt="image" src="https://github.com/user-attachments/assets/cd60fe26-fc6d-4e5c-9951-723db4507344" />
+![Get Departments Response](images/get_department_response.png)
 
 ### POST Department API – Request
-![Post Department Request]<img width="1907" height="783" alt="image" src="https://github.com/user-attachments/assets/9a1531a1-ff13-4e96-a084-fd67de355334" />
+![Post Department Request](images/post_department_request.png)
 
 ### POST Department API – Response
-![Post Department Response]<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/b11db2d4-9c9a-4924-abb0-1058e1015abe" />
+![Post Department Response](images/post_department_response.png)
 
 ### PUT Department API – Request
-![Put Department Request]<img width="1918" height="877" alt="image" src="https://github.com/user-attachments/assets/1db8e30d-2078-4cf9-8f3e-f0402d833872" />
+![Put Department Request](images/put_department_request.png)
 
 ### PUT Department API – Response
-![Put Department Response]<img width="1918" height="847" alt="image" src="https://github.com/user-attachments/assets/fe117d18-88ae-419c-b267-14f9e28f8e71" />
+![Put Department Response](images/put_department_response.png)
 
 ### DELETE Department API – Request
-![Delete Department Request]<img width="1911" height="432" alt="image" src="https://github.com/user-attachments/assets/0a655e79-bb58-469e-95ee-ef08c8239fa9" />
+![Delete Department Request](images/delete_department_request.png)
 
 ### DELETE Department API – Response
-![Delete Department Response]<img width="1915" height="797" alt="image" src="https://github.com/user-attachments/assets/9d87111b-0f7f-44f0-9c9e-a133e725aae6" />
+![Delete Department Response](images/delete_department_response.png)
 
-### Swagger Authorize – Request
-![Swagger Authorize Request]<img width="867" height="382" alt="image" src="https://github.com/user-attachments/assets/69df963f-3a61-4017-a165-d6a4423e5216" />
-
-### Swagger Authorize – Response
-![Swagger Authorize Response]<img width="878" height="390" alt="image" src="https://github.com/user-attachments/assets/fe6aef81-929d-403a-8470-48e6fe178e72" />
 
 
