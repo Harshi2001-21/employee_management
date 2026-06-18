@@ -184,3 +184,21 @@ Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 
 #### Swagger Authorize – Response  
 ![Swagger Authorize Response](images/swagger_authorize_response.png)
+
+🐳 Docker Section Example
+## 🐳 Docker Setup
+
+### Build Image
+![Docker Build]<img width="1077" height="632" alt="image" src="https://github.com/user-attachments/assets/6fd91502-1239-4480-a8f5-90f111ef9d4d" />
+
+### Push to Docker Hub
+![Docker Push]<img width="1237" height="636" alt="image" src="https://github.com/user-attachments/assets/f332b39f-b7c2-431a-bf5b-13920521629c" />
+
+
+### Run Container
+![Docker Run](images/docker_run.png)
+
+## 📬 Contact
+- Email: kannegantiharshitha21@gmail.com
+- LinkedIn: [Harshitha Kanneganti](https://linkedin.com/in/kharshitha21)
+
