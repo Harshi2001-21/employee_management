@@ -200,7 +200,7 @@ Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 ![Docker PS](images/docker_ps.png)
 
 ### Swagger UI
-![Swagger UI].(images/swagger_ui.png)
+![Swagger UI](images/swagger_ui.png)
 
 
 ## 📬 Contact
