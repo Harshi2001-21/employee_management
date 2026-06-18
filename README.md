@@ -171,7 +171,7 @@ Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 #### DELETE Department API – Request  
 ![Delete Department Request](images/delete_department_request.png)
 
-#### DELETE Department API – Response  
+#### DELETE Department API – Response 
 ![Delete Department Response](images/delete_department_response.png)
 
 ---
