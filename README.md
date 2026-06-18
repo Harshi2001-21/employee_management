@@ -92,14 +92,13 @@ DELETE /employees/{id} → Delete employee add chesi pampu
 ## 🖼️ Screenshots
 
 ### Register API
-![Register API](https://github.com/user-attachments/assets/fd1578bc-a705-4075-9401-d627557a8f39)
+![Register API](images/register_api.png)
 
 ### Login API
-![Login API](https://github.com/user-attachments/assets/defe18bb-3d5e-4ed0-94f6-1bc52dfaaa78)
+![Login API](images/login_api.png)
 
 ### Get Employees API
-![Get Employees](https://github.com/user-attachments/assets/2c4a279f-68e2-44e5-8b8c-a3e8ee583bb7)
-
+![Get Employees](images/get_employees_api.png)
 
 ## 🔮 Future Enhancements
 Role-based authorization (Admin/User)
@@ -201,7 +200,8 @@ Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 ![Docker PS](images/docker_ps.png)
 
 ### Swagger UI
-![Swagger UI](images/swagger_ui.png)
+![Swagger UI].(images/swagger_ui.png)
+
 
 ## 📬 Contact
 - Email: kannegantiharshitha21@gmail.com
