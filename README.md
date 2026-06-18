@@ -189,16 +189,22 @@ Swagger UI → [View APIs](http://localhost:9090/swagger-ui/index.html)
 ## 🐳 Docker Setup
 
 ### Build Image
-![Docker Build]<img width="1077" height="632" alt="image" src="https://github.com/user-attachments/assets/6fd91502-1239-4480-a8f5-90f111ef9d4d" />
+![Docker Build](images/docker_build.png)
 
 ### Push to Docker Hub
-![Docker Push]<img width="1237" height="636" alt="image" src="https://github.com/user-attachments/assets/f332b39f-b7c2-431a-bf5b-13920521629c" />
-
+![Docker Push](images/docker_push.png)
 
 ### Run Container
 ![Docker Run](images/docker_run.png)
 
+### Verify Container
+![Docker PS](images/docker_ps.png)
+
+### Swagger UI
+![Swagger UI](images/swagger_ui.png)
+
 ## 📬 Contact
 - Email: kannegantiharshitha21@gmail.com
 - LinkedIn: [Harshitha Kanneganti](https://linkedin.com/in/kharshitha21)
+
 
